@@ -15,25 +15,6 @@
 
 ## M00nb0t Suite
 
----
-
-### BlockEngine URLs (pick the closest to your location):
-- AMSTERDAM: https://amsterdam.mainnet.block-engine.jito.wtf
-- FRANKFURT: https://frankfurt.mainnet.block-engine.jito.wtf
-- NEW YORK: https://ny.mainnet.block-engine.jito.wtf
-- TOKYO: https://tokyo.mainnet.block-engine.jito.wtf
-
----
-
-### How to run:
-1. Install NodeJS (https://nodejs.org)
-2. Install the required packages (npm install) inside the terminal
-3. Edit the config.json file
-4. Run the bot (node main.js)
-
----
-
-## FULL PUMPFUN SUITE
 
 ✔️ **Bundled Launch**
 Launch with up to 20 sidewallet buys (soon 28). If correctly warmed up, passes tradingbot bundle detection. NO private node, or lil jit support needed. Guaranteed atomic block zero for all your buys.
