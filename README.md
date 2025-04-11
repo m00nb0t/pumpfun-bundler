@@ -1,7 +1,7 @@
 ```
 # MOONBOT
 
-```ascii
+
 ##     ##  #######   #######  ##    ##     ########   #######  ######## 
 ###   ### ##     ## ##     ## ###   ##     ##     ## ##     ##    ##    
 #### #### ##     ## ##     ## ####  ##     ##     ## ##     ##    ##    
@@ -14,25 +14,6 @@
 [https://t.me/m00nb0t](https://t.me/m00nb0t)
 
 ## M00nb0t Suite
-
-### CONFIG Guide (config.json):
-
-```
-"rpc": "Your RPC URL (http or https supported) (must support GPA (ask ur provider if unsure))",
-"ws": "Your WSS URL (ws or wss supported) (must support GPA (ask ur provider if unsure))",
-"slippage" Your desired slippage for buying tokens (ex: 0.15 = 15%)
-"minBuy": "Minimum buy amount (ex: 0.0001)",
-"maxBuy": "Maximum buy amount (ex: 0.1)",
-"microBuyAmount": "0.0001",
-"computeUnit": "100 (leave default)",
-"computeLimit": "100000 (leave default)",
-"blockEngineUrl": "JITO BlockEngine Url (List provided below)",
-"jitoTipPK": "JITO Tip Private Key (private key to pay tips from)",
-"jitoTipAmount": "JITO Tip Amount (ex: 0.0001)",
-"sender": "PRIVATE KEY for the wallet that will distribute SOL to volume wallets",
-"devWallet": "PUBLIC KEY (wallet address) of the deployer wallet to monitor for new launches"
-"useJITO": true/false --> is used for human/auto mode to use JITO or regular TXs (JITO acts as mev protection)
-```
 
 ---
 
